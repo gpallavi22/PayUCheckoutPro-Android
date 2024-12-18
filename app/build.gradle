@@ -5,6 +5,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
+   namespace 'com.payubiz.payu_checkoutpro_flutter'
     compileSdkVersion 33
     buildToolsVersion "30.0.3"
     defaultConfig {
